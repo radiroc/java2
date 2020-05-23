@@ -50,6 +50,7 @@ public class HospitalDAOImp implements HospitalDAO {
 
 	public boolean deleteHospital() {
 		// TODO Auto-generated method stub
+		System.out.println("Eduardo de Araújo");
 		return false;
 	}
 
